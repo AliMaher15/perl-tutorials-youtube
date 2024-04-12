@@ -1,0 +1,5 @@
+only 3 data types
+
+-scaler, start with $
+-array, start with @
+-hashes
